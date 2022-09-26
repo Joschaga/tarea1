@@ -1,0 +1,8 @@
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\bin\Debug\Tarea1_Progra2_JoseChan.exe.config
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\bin\Debug\Tarea1_Progra2_JoseChan.exe
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\bin\Debug\Tarea1_Progra2_JoseChan.pdb
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\obj\Debug\Tarea1_Progra2_JoseChan.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\obj\Debug\Tarea1_Progra2_JoseChan.csproj.SuggestedBindingRedirects.cache
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\obj\Debug\Tarea1_Progra2_JoseChan.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\obj\Debug\Tarea1_Progra2_JoseChan.exe
+C:\Users\josec\OneDrive\Documents\Hispanoamericana\2022\III-CUATRI\INFO-104\Tarea 1\Tarea1_Progra2_JoseChan\obj\Debug\Tarea1_Progra2_JoseChan.pdb
